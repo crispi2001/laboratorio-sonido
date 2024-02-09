@@ -1,0 +1,21 @@
+Pd 0.53-2 on Windows NT amd64
+--------------------------------------------------------------------------------
+pdfontloader loaded DejaVuSansMono.ttf
+pdfontloader loaded DejaVuSansMono-Bold.ttf
+pdfontloader loaded DejaVuSansMono-Oblique.ttf
+pdfontloader loaded DejaVuSansMono-BoldOblique.ttf
+------------------ done with main ----------------------
+connection from 'pd' to 'pd-gui' on 127.0.0.1:51803
+Tk 8.6.10
+fuente detectada: DejaVu Sans Mono
+se utilizaá la fuente: DejaVu Sans Mono bold
+Cargando plugin: C:/ProgramDataNebrija/pd-0.53-2/tcl/pd_deken.tcl
+[deken] plataforma detectada: Windows-amd64-float32
+Cargando plugin: C:/ProgramDataNebrija/pd-0.53-2/tcl/pd_docsdir.tcl
+[deken] Plataforma re-detectada: Windows-amd64-float32
+la ventana de Pd ha filtrado 15 lineas
+adc
+... couldn't create
+n
+... couldn't create
+PDUNTITLED-1 1 0 4 0 (dac~->hsl) connection failed
